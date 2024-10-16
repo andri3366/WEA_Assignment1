@@ -1,0 +1,9 @@
+cst8218\andrianna\slider\game\SliderFacade.class
+cst8218\andrianna\slider\game\SliderGame.class
+cst8218\andrianna\slider\presentation\SliderController.class
+cst8218\andrianna\slider\game\AbstractFacade.class
+service\SliderFacadeREST.class
+cst8218\andrianna\slider\entity\Slider.class
+service\AbstractFacade.class
+cst8218\andrianna\slider\slider\JakartaRestConfiguration.class
+cst8218\andrianna\slider\slider\resources\JakartaEE10Resource.class
